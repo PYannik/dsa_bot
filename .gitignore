@@ -174,4 +174,4 @@ cython_debug/
 .pypirc
 .env
 /bin
-user_init.txt
+user.txt

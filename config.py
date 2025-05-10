@@ -11,7 +11,7 @@ BOT_TOKEN = os.getenv('BOT_TOKEN')
 COMMAND_PREFIX = '/'
 
 # File paths
-INI_FILE_PATH = 'user_ini.txt'
+INI_FILE_PATH = 'user.txt'
 
 # Discord configuration
 DEFAULT_TIMEOUT = 180  # seconds 
